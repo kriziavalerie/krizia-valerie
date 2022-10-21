@@ -1,0 +1,113 @@
+.menu {
+	margin-top: 50px;
+	float: left;
+	margin-right: 0px;
+	margin-left: 0px;
+	height: 700px;
+	width: 200px;
+}
+
+.iframeUl {
+
+	list-style-type: none;
+	margin: 0;
+  	padding: 0;
+}
+
+.iframeLi {
+	list-style-type: none;
+	font-size: 25px;
+
+}
+
+li a {
+text-decoration: none;
+color: black;
+}
+
+.iframeLi a:hover {
+	color: #737373;
+}
+
+.iFrame1 {
+	margin-left: 0px;
+	margin-top: 50px;
+}
+
+p {
+	text-align: center;
+	font-family: mistral;
+	font-size: 50px;
+	float: left;
+	color: #cc9966;
+}
+
+.mainUl {
+list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  background-color: ; 
+}
+
+.logoImage {
+  width: 100px;
+  height: 75px;
+  margin-left: 15px;
+}
+
+.forLogo {float: left;
+  margin-left: 25px;
+}
+
+.forNav {
+	margin-top: 10px;
+	display: inline-block;
+	float: right;
+  padding-right: 15px;
+  font-family: century gothic;
+
+}
+
+.forNav a {
+	display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 7px;
+  text-decoration: none;
+  margin-right: 20px;
+
+}
+
+.forNav a:hover {
+	background-color: #f9f2ec;
+}
+
+.forLogo {
+  float: left;
+  margin-left: 25px;
+}
+
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #c8bca2 #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #c8bca2;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+  }
+
+

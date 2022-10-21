@@ -1,0 +1,30 @@
+.forGallery {
+	width: 250px;
+	height: 250px;
+	border: 3px solid #dfbf9f;
+}
+
+.forGalleryFam {
+	width: 300px;
+	height: 200px;
+	border: 3px solid #dfbf9f;
+}
+
+table {
+	margin-left: 120px;
+	margin-top: 30px;
+}
+
+td {
+	
+	padding-right: 30px;
+}
+
+tr {
+	margin-top: 15px;
+}
+
+.firstStoryCover {
+	width: 250px;
+	height: 380px;
+}
