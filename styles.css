@@ -306,6 +306,11 @@ textarea {
   font-size: 30px;
 }
 
+#questions {
+  font-family: century;
+  font-size: 30px;
+}
+
 #paragraph2 {
   text-align: justify;
 }
